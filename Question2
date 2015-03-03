@@ -1,1 +1,2 @@
 Explain what the "upstream" remote is usually used for, in your own words
+UTo pull in changes from the main repo one can add a remote called upstream in ones local repo that points to the original and pulls from it
